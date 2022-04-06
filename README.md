@@ -12,3 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munyong&show_icons=true&locale=en" alt="munyong" /></p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gjansdyd)](https://solved.ac/gjansdyd)
