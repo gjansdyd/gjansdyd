@@ -1,5 +1,5 @@
 <p>
-  <a href="mailto:gjansdyd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:gjansdyd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gjansdyd@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
