@@ -4,7 +4,7 @@
 
 <p>
   👋&nbsp; 안녕하세요. 4년차 iOS개발자 <b>허문용</b>입니다.🚀<br/>
-  c언어로 개발을 시작해 Java를 거쳐 현재 <b>Swift</b>오 <b>RxSwift</b>로 개발을 하고 있습니다.<br/><br/>
+  c언어로 개발을 시작해 Java를 거쳐 현재 <b>Swift</b>와 <b>RxSwift</b>로 개발을 하고 있습니다.<br/><br/>
   최근 크로스플랫폼 개발에도 관심이 생겨 <b>React</b>와 <b>ReactNative</b>를 공부중입니다. <br/>
   <del>하지만 Native의 힘을 여전히 믿습니다!</del> <br/><br/>
   프로그래밍을 하지 않을 때에는 노래🎤, 술🍺, 책📚 중 하나와 함께 있습니다. <br/><br/>
