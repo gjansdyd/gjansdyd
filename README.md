@@ -6,7 +6,8 @@
 
 ### Technologies Used
 
-`Swift`, `RxSwift`, `CocoaMVC`, `MVVM`
+`Swift`, 
+`CocoaMVC`, `MVVM`
 `Alamofire`, `SwiftyJson`, `SnapKit`, 
 `FirebaseAnalytics`, `Firebase/Crashlytics`, `Firebase/Messaging`, 
 `GoogleMLKit`, `sqlite`, `RealmSwift`, `SwiftyBeaver`, `lottie`, `Mantis`
